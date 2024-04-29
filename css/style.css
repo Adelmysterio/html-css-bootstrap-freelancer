@@ -4,14 +4,15 @@
     background-color: #1abc9c;
 }
 
-
-
 /* Stile Generale */
-
-
 
 .divider {
     height: 3px;
     width: 5rem;
-    background-color: white;
+}
+
+button {
+    width: 5rem;
+    background-color: transparent;
+    border: 1px solid white;
 }
