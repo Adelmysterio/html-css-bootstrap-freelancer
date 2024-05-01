@@ -35,7 +35,6 @@
     overflow: hidden;
 }
 
-
 .container-60 {
     width: 60%;
     margin: 0 auto;
@@ -58,3 +57,7 @@ textarea {
     border: none;
     border-bottom: 1px solid #2c3e5049;
 }
+
+ #contact button:hover {
+background-color: #0e6150;
+ }
